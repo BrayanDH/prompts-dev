@@ -1,4 +1,4 @@
-# Prompts Recomendados para Desarrollo
+# Prompts Recomendados para Desarrollo a
 
 Estos prompts los podés usar en cualquier proyecto. Copialos y adaptalos a tu código.
 
